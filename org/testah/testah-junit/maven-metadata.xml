@@ -3,7 +3,7 @@
   <groupId>org.testah</groupId>
   <artifactId>testah-junit</artifactId>
   <versioning>
-    <release>1.1.8</release>
+    <release>2.0.1</release>
     <versions>
       <version>0.0.1</version>
       <version>0.1.0</version>
@@ -75,7 +75,8 @@
       <version>0.10.13</version>
       <version>1.1.3</version>
       <version>1.1.8</version>
+      <version>2.0.1</version>
     </versions>
-    <lastUpdated>20181113050841</lastUpdated>
+    <lastUpdated>20181221021206</lastUpdated>
   </versioning>
 </metadata>
